@@ -1,0 +1,23 @@
+th{
+    background-color: black;
+    color:green;
+    font-size:large;
+    font-style: oblique;
+}
+
+table{
+    border-collapse: collapse;
+    color: chartreuse;
+    border-color: green;
+    border-style: ridge;
+    
+}
+
+h2{
+    background-color: chartreuse;
+}
+
+td{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+}
